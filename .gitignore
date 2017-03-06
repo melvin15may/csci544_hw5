@@ -90,3 +90,5 @@ ENV/
 
 # My files
 hmmmodel.txt
+hmmoutput.txt
+test.txt
